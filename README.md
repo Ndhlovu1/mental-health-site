@@ -8,3 +8,7 @@ A mental health web application with php, css and html configured on an nginx se
 
 ![3](https://github.com/Ndhlovu1/mental-health-site/assets/46927702/958d0cee-08cd-4f2a-8044-4ba0d6bfcf4d)
 
+![4](https://github.com/Ndhlovu1/mental-health-site/assets/46927702/118e974a-3ee9-48fa-8f50-dc624eaff600)
+
+
+
